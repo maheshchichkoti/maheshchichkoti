@@ -4,7 +4,7 @@
 
 ### Full-Stack AI Engineer | Distributed Systems & Cloud Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Building+Production+Agentic+AI+%26+Full-Stack+SaaS;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;LangGraph+%E2%80%A2+RAG+Pipelines+%E2%80%A2+MCP+%E2%80%A2+Microservices;Architecting+High-Scale+Systems+(100K%2B+DAU)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Building+Production+Agentic+AI+%26+Full-Stack+SaaS;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Node.js+%E2%80%A2+AWS;LangGraph+%E2%80%A2+Hybrid+RAG+%E2%80%A2+Qdrant+%E2%80%A2+Microservices;Sub-150ms+p95+Latency+%E2%80%A2+High-Scale+Distributed+Systems" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/maheshchitakoti"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,21 +22,21 @@
 ```typescript
 const mahesh: FullStackAIEngineer = {
   location: "Bengaluru, India 🇮🇳",
-  currentRole: "Full-Stack Developer @ WorkBridge",
-  company: "https://www.workbridgeco.com/",
+  currentFocus: "Production Agentic Workflows & High-Throughput Microservices",
+  flagshipProject: "https://workbridgee.vercel.app",
 
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
-    backend: ["Node.js", "NestJS", "Express", "Spring Boot", "FastAPI", "GraphQL"],
-    agenticAI: ["LangChain", "LangGraph", "LlamaIndex", "MCP", "OpenAI API", "RAG Systems"],
-    databases: ["PostgreSQL (pgvector)", "Pinecone", "MongoDB", "Redis", "Elasticsearch"],
-    cloudDevOps: ["AWS (Lambda, ECS, EC2, S3, RDS)", "Docker", "Kubernetes", "Terraform"]
+    frontend: ["React.js", "Next.js (App Router)", "TypeScript", "Tailwind CSS", "Redux Toolkit"],
+    backend: ["Python", "FastAPI", "AsyncIO", "Node.js", "NestJS", "Express.js", "WebSockets"],
+    agenticAI: ["LangGraph", "LangChain", "Hybrid RAG (Dense + BM25)", "Pydantic", "Gemini API", "OpenAI API"],
+    retrievalDatabases: ["Qdrant", "PostgreSQL (pgvector HNSW)", "Redis (Semantic Cache)", "MongoDB"],
+    cloudDevOps: ["AWS (EC2, S3)", "Docker", "GitHub Actions CI/CD", "Linux", "k6 Load Testing"]
   },
 
   architectureFocus: [
-    "Production-grade Agentic AI workflows & hybrid RAG pipelines",
-    "Event-driven microservices with Apache Kafka & Kubernetes",
-    "Low-latency full-stack SaaS applications at 100K+ DAU scale"
+    "Stateful multi-step agentic orchestration with self-healing structured outputs",
+    "Hybrid semantic retrieval with dense embeddings, BM25 indexing & token rate limiters",
+    "High-throughput event-driven microservices sustaining <150ms p95 latency under load"
   ],
 
   lifePhilosophy: "Code is poetry, bugs are just plot twists 🎭"
@@ -45,11 +45,11 @@ const mahesh: FullStackAIEngineer = {
 
 ## 💼 Engineering Impact & Highlights
 
-- 🔹 **Full-Stack Product Delivery:** Architected, built, and deployed 10+ production web applications using React, Next.js, Node.js, and AWS cloud infrastructure
-- 🔹 **Agentic AI & RAG Systems:** Engineered LLM-powered workflows using LangChain, LangGraph, OpenAI API, Model Context Protocol (MCP), and vector databases (Pinecone / pgvector)
-- 🔹 **High-Scale System Design:** Designed event-driven microservices handling **100K+ daily active users** with high availability and fault-tolerant caching
-- 🔹 **Cloud & CI/CD Automation:** Automated AWS deployments using Docker, Kubernetes, and GitHub Actions pipelines, cutting release cycles by **70%**
-- 🔹 **Open Source & DX:** Active contributor to modern TypeScript, React, and AI developer tooling
+- 🔹 **Agentic AI & LLM Evaluation:** Architected multi-step LangGraph workflows with Gemini APIs & Pydantic validation, eliminating broken responses and cutting inference costs by **35%** via Redis semantic caching.
+- 🔹 **Production Hybrid RAG:** Engineered dense + BM25 hybrid search over 10,000+ chunks in **Qdrant**, achieving **<300ms p95 latency** with high-precision keyword rubrics.
+- 🔹 **Full-Stack SaaS Delivery:** Built and deployed decoupled microservices using Next.js, FastAPI, Node.js, and PostgreSQL (pgvector HNSW) sustaining **<150ms p95 latency** under k6 load tests.
+- 🔹 **Database & Query Tuning:** Optimized high-traffic APIs using Redis caching and PostgreSQL compound indexing, reducing median latency from **800ms to 320ms (60% drop)**.
+- 🔹 **Resilient Microservices:** Developed distributed workers with idempotent webhook handlers, exponential backoff, and Docker autograder sandbox environments.
 
 ## 🎯 Featured Production Systems
 
@@ -60,35 +60,35 @@ const mahesh: FullStackAIEngineer = {
 <td width="50%" valign="top">
 <h3 align="center">🌉 WorkBridge Platform</h3>
 <div align="center">
-<a href="https://www.workbridgeco.com/"><img src="https://img.shields.io/badge/Live%20Production-%232E9EF7.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Production" /></a>
-<p><strong>React • Node.js • PostgreSQL • AWS</strong><br/>
-Enterprise workforce management platform powering real-time team collaboration, role-based access, and automated operational workflows.</p>
+<a href="https://workbridgee.vercel.app"><img src="https://img.shields.io/badge/Live%20Platform-%232E9EF7.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Platform" /></a>
+<p><strong>Next.js • FastAPI • Node.js • PostgreSQL (pgvector) • Redis</strong><br/>
+Decoupled full-stack collaboration platform pairing a Node.js auth gateway with an asynchronous FastAPI vector search engine (sub-100ms cosine similarity, &lt;150ms p95 load).</p>
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🤖 Agentic RAG Copilot</h3>
+<h3 align="center">🤖 News RAG Backend</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Private%20Build-Production%20AI-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private Production Build" />
-<p><strong>Next.js • LangGraph • OpenAI • Pinecone • MCP</strong><br/>
-Stateful multi-step AI assistant with hybrid semantic search, tool calling, memory management, and grounded enterprise document retrieval.</p>
+<a href="https://github.com/maheshchichkoti/news-rag-backend"><img src="https://img.shields.io/badge/View%20Code-news--rag--backend-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Code" /></a>
+<p><strong>FastAPI • LangChain • Qdrant • Pinecone • OpenAI / Gemini</strong><br/>
+Production hybrid retrieval system with dense vector search, BM25 keyword matching, Pydantic structured output parsing, and token rate limiting.</p>
 </div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">📊 Real-Time Telemetry Engine</h3>
+<h3 align="center">🏗️ Neo Event System</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Private%20Build-Internal%20Platform-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private Internal Platform" />
-<p><strong>React • TypeScript • D3.js • Express • Redis</strong><br/>
-High-throughput analytics dashboard streaming live operational metrics via WebSockets with interactive visualizations and sub-second caching.</p>
+<a href="https://github.com/maheshchichkoti/neo-event-system"><img src="https://img.shields.io/badge/View%20Architecture-neo--event--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="Architecture Repo" /></a>
+<p><strong>Node.js • Apache Kafka • Redis • Docker • Microservices</strong><br/>
+High-throughput event-driven microservices core featuring asynchronous message queues, idempotent event routing, and distributed state caching.</p>
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🏗️ Event-Driven Microservices Core</h3>
+<h3 align="center">✉️ Email Sequence Engine</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Private%20Build-System%20Architecture-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private Architecture" />
-<p><strong>Node.js • Spring Boot • Kafka • Docker • K8s</strong><br/>
-Distributed backend architecture featuring asynchronous event queues, API Gateway routing, automated horizontal scaling, and Prometheus observability.</p>
+<a href="https://github.com/maheshchichkoti/email-sequence"><img src="https://img.shields.io/badge/View%20Code-email--sequence-181717?style=for-the-badge&logo=github&logoColor=white" alt="Email Sequence" /></a>
+<p><strong>TypeScript • Node.js • Queue Workers • REST APIs</strong><br/>
+Multi-tenant automated drip workflow engine with scheduled execution queues, webhook delivery retry mechanisms, and state tracking.</p>
 </div>
 </td>
 </tr>
@@ -102,46 +102,54 @@ Distributed backend architecture featuring asynchronous event queues, API Gatewa
 <summary><b>⚡ Core Stack & Production Tooling</b></summary>
 <br/>
 
-**AI, Agents & Retrieval**
+**AI, Agents & Retrieval Systems**
 ```text
-OpenAI API • Anthropic Claude • LangChain • LangGraph • LlamaIndex
-Model Context Protocol (MCP) • Hybrid RAG • Tool Calling • LangSmith
-Pinecone • PostgreSQL (pgvector) • Hugging Face • Semantic Embeddings
+LangGraph • LangChain • Gemini API • OpenAI API • Anthropic Claude
+Qdrant • PostgreSQL (pgvector HNSW) • Pinecone • Semantic Caching (Redis)
+Hybrid Search (Dense + BM25) • Pydantic Structured Outputs • Model Context Protocol (MCP)
 ```
 
 **Frontend Engineering**
 ```text
 React.js • Next.js (App Router) • TypeScript • JavaScript (ES6+) • HTML5 • CSS3
-Tailwind CSS • shadcn/ui • Material-UI • Framer Motion • D3.js • Chart.js
-Redux Toolkit • TanStack React Query • Zustand • WebSockets
+Tailwind CSS • shadcn/ui • Framer Motion • Redux Toolkit • Vite • WebSockets
 ```
 
-**Backend & Distributed Systems**
+**Backend & Distributed Microservices**
 ```text
-Node.js • NestJS • Express.js • Java • Spring Boot • Spring Security
-Python • FastAPI • Flask • GraphQL • RESTful APIs • Server-Sent Events
-Apache Kafka • RabbitMQ • AWS SQS • Event-Driven Microservices
+Python • FastAPI • AsyncIO • Node.js • NestJS • Express.js
+RESTful APIs • Full-Duplex WebSockets • Redis Task Queues • Microservices Architecture
+Idempotent Webhooks • Connection Pooling • Event-Driven Systems
 ```
 
-**Databases, Caching & ORM**
+**Databases, Caching & Search**
 ```text
-PostgreSQL • MongoDB • MySQL • MS SQL Server • Redis • Elasticsearch
-Prisma ORM • TypeORM • Mongoose • Query Optimization & Indexing
+PostgreSQL • Qdrant • Redis • MongoDB • pgvector
+Compound Indexing • Query Profiling & Optimization • Database Connection Pools
 ```
 
-**Cloud, DevOps & Observability**
+**Cloud, DevOps & Quality Assurance**
 ```text
-AWS (EC2, ECS, Lambda, S3, RDS, CloudFront, API Gateway, SQS)
-Docker • Kubernetes • Terraform (IaC) • GitHub Actions • Jenkins • GitLab CI
-Grafana • Prometheus • ELK Stack • Linux • Nginx • PM2
-```
-
-**Testing & Quality Assurance**
-```text
-Playwright • Cypress • Jest • React Testing Library • Postman • OpenAPI / Swagger
+AWS (EC2, S3) • Docker • GitHub Actions CI/CD • Linux • Nginx
+k6 Load Testing • Jest • Postman API Testing • OpenAPI / Swagger
 ```
 
 </details>
+
+## 📜 Verified Certifications
+
+<div align="center">
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C26A04ECFD18D07997FE22EFCD368FA2355E90176DF872361BA3568EB87FE532"><img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Certified%20Associate%20(2026)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI" /></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBBFD68A8A08024E5624BE28AA84D101812885D8B9C036DA18F8F110A75CBB12"><img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Professional%20(2025)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Vector Search" /></a>
+</p>
+<p align="center">
+  <a href="https://badges.plus.columbia.edu/5fdeba5e-ee65-4041-86d9-602fb4d1f288#acc.Xf1YuPmA"><img src="https://img.shields.io/badge/Columbia%20University-Machine%20Learning%20I%20(2025)-002B7F?style=for-the-badge&logo=columbia&logoColor=white" alt="Columbia ML" /></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FD55AA64EF5240AFF31F10E95EB6D46DCAC92326D8E2ABB457EE7AC8C3CAF65"><img src="https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional%20(2024)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI" /></a>
+</p>
+
+</div>
 
 ## 📊 GitHub Analytics & Trophies
 
@@ -164,31 +172,19 @@ Playwright • Cypress • Jest • React Testing Library • Postman • OpenAP
 
 </div>
 
-## 🎓 Cloud & Architecture Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-</div>
-
-<br/>
+## 🎓 Architecture Flow
 
 ```mermaid
 graph LR
-A[Agentic AI & RAG] --> B[Full-Stack Next.js / Node.js]
-B --> C[Event-Driven Microservices]
-C --> D[AWS & Kubernetes Cloud]
+A[Agentic AI & RAG] --> B[FastAPI & Node.js Microservices]
+B --> C[PostgreSQL pgvector & Qdrant]
+C --> D[Docker & AWS Cloud]
 D --> A
 ```
 
-- 🔭 **Currently building:** Multi-agent AI workflows, hybrid RAG pipelines, and cloud-native SaaS applications
-- 🌱 **Deepening expertise in:** Stateful agent orchestration (`LangGraph` / `MCP`), distributed system design, and LLM observability
-- 💬 **Ask me about:** React/Next.js, Node.js, Spring Boot, AWS architecture, or production LLM integration
+- 🔭 **Currently building:** Stateful agentic workflows (`LangGraph`), hybrid RAG systems, and decoupled microservices
+- 🌱 **Deepening expertise in:** Semantic caching, high-throughput vector indexing (Qdrant / pgvector HNSW), and LLM latency optimization
+- 💬 **Ask me about:** Python/FastAPI, TypeScript/Node.js, Next.js, LangGraph, or Vector Retrieval systems
 - ⚡ **Fun fact:** I debug production issues faster than I can find my keys in the morning
 
 ## 📫 Let's Connect & Collaborate
