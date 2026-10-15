@@ -155,20 +155,20 @@ k6 Load Testing • Jest • Postman API Testing • OpenAPI / Swagger
 
 <div align="center">
 
-<a href="https://github.com/maheshchichkoti"><img src="https://github-profile-trophy.vercel.app/?username=maheshchichkoti&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" /></a>
+<a href="https://github.com/maheshchichkoti"><img src="https://github-trophies.vercel.app/?username=maheshchichkoti&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" /></a>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maheshchichkoti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maheshchichkoti&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshchichkoti&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshchichkoti&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshchichkoti&theme=algolia&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=maheshchichkoti&theme=algolia&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshchichkoti&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+<img src="https://activity-graph.vercel.app/graph?username=maheshchichkoti&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
